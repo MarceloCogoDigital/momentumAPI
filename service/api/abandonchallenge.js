@@ -4,7 +4,7 @@
 
 exports.post = function(request, response) {
     
-    //store data sent from app     
+    //store data sent from app THIS IS A TEST PLEASE WORK    
     var item = {
         User_idUser : request.body.idUser,
         soloChallenge_idsoloChallenge : request.body.soloChallenge_idsoloChallenge
